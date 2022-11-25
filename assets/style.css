@@ -1,0 +1,36 @@
+ #page1-pais_elect .VirtualizedSelectFocusedOption {
+    background-color: rgb(226, 226, 226);
+  }
+
+  #comparacion_por_elect .VirtualizedSelectFocusedOption {
+    background-color: rgb(226, 226, 226);
+  }
+
+
+  .Select--multi .Select-value {
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+}
+/* Color slider */
+.rc-slider-track {
+    background-color: #460074;
+  }
+  
+  .rc-slider-dot-active {  
+    border-color: #460074;
+    border: solid 2px #460074;
+  }
+  
+  .rc-slider-handle {
+    background-color: #460074;
+    border-color: #460074;
+  }
+  
+  .rc-slider-handle:hover {
+    border-color: #460074;
+  }
+  
+  .rc-slider-handle-active:active {
+    border-color: #460074;
+  }
