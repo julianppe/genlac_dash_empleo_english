@@ -39,6 +39,7 @@ dropdown = dbc.Row([
             dbc.DropdownMenuItem("Wage earners", href="/asalariados"),
             dbc.DropdownMenuItem("Self-employed", href="/cuentapropista"),
             dbc.DropdownMenuItem("Unpaid workers", href="/no-remunerado"),
+            dbc.DropdownMenuItem("Managers", href="/managers"),
             dbc.DropdownMenuItem(divider=True),
             dbc.DropdownMenuItem("Income", header=True),
             dbc.DropdownMenuItem("Average hourly wage", href="/salario-horario"),
